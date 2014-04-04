@@ -1,0 +1,36 @@
+Benutzer
+	Ort
+Zahlungen
+	Zahlungsart
+	Zahlungstypen
+Konto
+
+Benutzer
+	Benutzer_ID, Name, Vorname, Geburtsjahr, Straße, Ort_ID#, Konto_ID#
+
+Ort
+	Ort_ID, Ort, PLZ
+
+Zahlungen
+	Zahlungen_ID, Betrag, Datum, Zahlungsart_ID#, Zahlungstypen_ID#, Konto_ID#
+	
+Zahlungsart
+	Zahlungsart_ID, Art
+	
+Zahlungstypen
+	Zahlungstyp_ID, Typ
+
+Konto
+	Konto_ID, Kontonummer, BLZ, Betrag
+	
+
+	
+LogIn
+Feedback
+Help
+home
+	mehr
+Über uns
+Zusammenfassung
+
+LogIn(Zusammenfassung) -> Home
