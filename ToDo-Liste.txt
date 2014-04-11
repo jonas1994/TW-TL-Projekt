@@ -1,0 +1,7 @@
+-anderes wort für eintrag
+-MVC
+-Modell ---> Datensätze 
+-View -----> Anzeige z.b.Registrierung
+-Controller  Funktionalität
+
+alles auf englisch!!! in DB wichtig und so
